@@ -1,0 +1,160 @@
+/* ===== Education Section ===== */
+.education-section {
+  width: 80%;
+  margin: 40px auto;
+  padding: 20px;
+  position: relative;
+  margin-top: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ===== Thoughts Section (Title) ===== */
+.thoughts {
+  text-align: center;
+  margin-bottom: 0%;
+  animation: fadeInScale 1s ease-in-out;
+}
+
+.thoughts h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, #6a11cb, #2575fc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+  animation: fadeDown 1s ease-in-out;
+}
+
+.thoughts p {
+  font-size: 1.1rem;
+  color: #555;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+  animation: fadeUp 1.2s ease-in-out;
+}
+
+/* Decorative underline under heading */
+.thoughts h1::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  margin: 12px auto 0;
+  border-radius: 4px;
+  animation: expandLine 1s ease forwards;
+}
+
+/* ===== Timeline Line ===== */
+.education-section::before {
+  content: "";
+  position: absolute;
+  top: 30px;
+  left: 50.5%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 90%;
+  background: linear-gradient(to bottom, #6a11cb, #2575fc);
+}
+
+/* Education Cards */
+.education-card {
+  background: #fff;
+  padding: 20px;
+  margin: 30px 0;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  width: 43%;
+  position: relative;
+  animation: slideIn 1s ease forwards;
+  opacity: 0;
+}
+
+/* Left & Right Alternating Cards */
+.education-card:nth-child(odd) {
+  left: 0;
+  transform: translateX(-120%);
+}
+.education-card:nth-child(even) {
+  left: 55%;
+  transform: translateX(120%);
+}
+
+/* Connector Circle */
+.education-card::before {
+  content: "";
+  position: absolute;
+  top: 20px;
+  left: 571px;
+  width: 20px;
+  height: 20px;
+  background: #2575fc;
+  border-radius: 50%;
+  border: 3px solid white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.education-card:nth-child(even)::before {
+  left: -35px;
+}
+
+/* Card Heading */
+.education-card h2 {
+  font-size: 1.3rem;
+  color: #2575fc;
+  margin-bottom: 8px;
+}
+
+/* Card Content */
+.education-card p {
+  font-size: 0.95rem;
+  color: #444;
+  margin: 4px 0;
+}
+
+/* ===== Animations ===== */
+@keyframes fadeDown {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideIn {
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes fadeInScale {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes expandLine {
+  from { width: 0; }
+  to { width: 80px; }
+}
+
+/* ===== Responsive ===== */
+@media screen and (max-width: 768px) {
+  .education-section::before {
+    left: 20px;
+  }
+
+  .education-card {
+    width: 70%;
+    left: 50px !important;
+    transform: translateX(-120%);
+  }
+
+  .education-card::before {
+    left: -35px !important;
+  }
+
+  .thoughts h1 {
+    font-size: 2rem;
+  }
+}

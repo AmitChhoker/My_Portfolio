@@ -1,0 +1,113 @@
+/* ===== Skills Container ===== */
+.skills-container {
+  background: #111827; /* dark background */
+  color: #f1f5f9;
+  padding: 40px;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 100%;
+  box-shadow: 0 0 20px rgba(0, 255, 200, 0.2);
+  border: 2px solid #00ffe7;
+}
+
+.skills-title {
+  font-size: 2.2rem;
+  color: #38bdf8;
+
+  font-weight: 700;
+  position: relative;
+}
+
+.skills-title::after {
+  content: "";
+  display: block;
+  width: 80%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #00ffe7, transparent);
+
+}
+
+/* ===== Section Headings ===== */
+.skills-container h3 {
+        margin-bottom: 0%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #facc15;
+  text-shadow: 0 0 10px rgba(250, 204, 21, 0.5);
+}
+
+/* ===== Skill List ===== */
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+/* ===== Skill Card ===== */
+.skills-list p {
+  background: #1f2937;
+  color: #e5e7eb;
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  border: 1px solid #00ffe7;
+  box-shadow: 0 0 12px rgba(0, 255, 200, 0.3);
+  cursor: pointer;
+  transition: all 0.4s ease;
+  position: relative;
+  overflow: hidden;
+  perspective: 1000px;
+      margin-top: 0%;
+}
+
+/* Unique Hover Animation (flip + glow pulse) */
+.skills-list p:hover {
+  transform: rotateY(360deg) scale(1.1);
+  color: #00ffe7;
+  background: #0f172a;
+  box-shadow: 0 0 25px #00ffe7, 0 0 50px #00ffe7;
+  border-color: #38bdf8;
+}
+
+/* Small Glow Animation Always Active */
+@keyframes pulse-glow {
+  0% {
+    box-shadow: 0 0 12px rgba(0, 255, 200, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(0, 255, 200, 0.6);
+  }
+  100% {
+    box-shadow: 0 0 12px rgba(0, 255, 200, 0.3);
+  }
+}
+
+.skills-list p {
+  animation: pulse-glow 2s infinite;
+}
+
+/* ===== Responsive Design ===== */
+@media (max-width: 768px) {
+  .skills-container {
+    padding: 20px;
+  }
+  .skills-title {
+    font-size: 1.8rem;
+  }
+  .skills-list p {
+    font-size: 0.9rem;
+    padding: 10px 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .skills-list {
+    gap: 10px;
+  }
+  .skills-list p {
+    width: 100%;
+    text-align: center;
+  }
+}

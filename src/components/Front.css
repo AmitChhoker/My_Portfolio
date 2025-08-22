@@ -1,0 +1,210 @@
+body{
+  margin: 0;
+  padding: 0;
+  
+  
+}
+
+.contact-container {
+  margin-right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 46px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: white;
+  padding-left: 20px;
+  padding-right: 10px;
+  background-color: black;
+  
+}
+
+/* ===== Profile Card ===== */
+.profile-card {
+  text-align: left;
+  max-width: 600px;
+  width: 100%;
+}
+.profile-img{
+  display: flex;
+  justify-content: left;
+}
+/* ===== Profile Image ===== */
+.profile-img img {
+  width: 200px;
+  height: 220px;
+  border-radius: 40%;
+  border: 4px solid #facc15;
+  object-fit: cover;
+  transition: transform 0.4s ease-in-out;
+}
+
+.profile-img img:hover {
+  transform: scale(1.05);
+}
+
+/* ===== Heading ===== */
+.h1 {
+  font-size: 36px;
+  font-weight: bold;
+  /* margin-bottom: 15px; */
+}
+.name{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.highlight {
+  color: #facc15;
+}
+
+/* ===== Subtitle ===== */
+.subtitle {
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 10px;
+  color: #00eaff;
+  font-weight: 600;
+}
+
+/* ===== Description ===== */
+.desc {
+  font-size: 16px;
+  color: #cbd5e1;
+}
+
+/* ===== Social Icons ===== */
+.social-icons {
+  display: flex;
+  justify-content: left;
+  gap: 25px;
+  margin-bottom: 25px;
+}
+
+.social-icons a {
+  font-size: 28px;
+  transition: transform 0.4s ease, color 0.3s ease;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: left;
+  gap: 25px;
+  margin-bottom: 25px;
+}
+
+.social-icons a {
+  font-size: 28px;
+  transition: transform 0.4s ease, color 0.3s ease;
+}
+
+/* GitHub */
+.social-icons a[href*="github.com"] i {
+  color: #181717;
+}
+
+/* LinkedIn */
+.social-icons a[href*="linkedin.com"] i {
+  color: #0A66C2;
+}
+
+/* Instagram (gradient look) */
+.social-icons a[href*="instagram.com"] i {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, 
+              #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Email (Gmail Red) */
+.social-icons a[href^="mailto:"] i {
+  color: #EA4335;
+}
+
+/* Hover effect */
+.social-icons a:hover {
+  transform: scale(1.3);
+  filter: brightness(1.2);
+}
+
+
+.social-icons a.instagram {
+  color: #E4405F; /* Instagram Pink */
+}
+
+.social-icons a.linkedin {
+  color: #0A66C2; /* LinkedIn Blue */
+}
+
+.social-icons a.github {
+  color: #181717; /* GitHub Black */
+}
+
+.social-icons a.youtube {
+  color: #FF0000; /* YouTube Red */
+}
+
+.social-icons a:hover {
+  transform: scale(1.3);
+  filter: brightness(1.2); /* makes hover effect brighter */
+}
+
+/* ===== Resume Button ===== */
+.resume-btn {
+  text-align: center;
+  width: 130px;
+  display: flex;
+  padding: 5px;
+  background: linear-gradient(135deg, #facc15, #fbbf24);
+  color: #000;
+  font-weight: bold;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+.resume-btn:hover {
+  transform: scale(1.1);
+  background: linear-gradient(135deg, #ffcd3c, #f59e0b);
+}
+
+
+
+
+
+
+
+
+.h1 {
+  font-size: 28px;
+  font-weight: bold;
+   color: whitesmoke;
+  
+}
+
+.typing {
+  font-family: monospace;
+  font-weight: bold;
+  color:#f59e0b;
+}
+
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

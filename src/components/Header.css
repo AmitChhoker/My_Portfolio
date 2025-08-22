@@ -1,0 +1,99 @@
+/* ===== Header Container ===== */
+.header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+    display: flex;
+  flex-direction: column; /* important for stacking in small screens */
+  align-items: center;
+  justify-content: center;
+  background: rgba(86, 104, 13, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+  z-index: 1000; /* ensure it stays on top */
+  margin: 0 auto;
+}
+
+/* ===== Logo ===== */
+.logo h1 {
+  font-size: clamp(18px, 2vw, 32px);
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 2px;
+  cursor: pointer;
+  transition: transform 0.3s ease, color 0.3s ease;
+  white-space: nowrap;
+  margin-bottom: 10px; /* space below logo for nav */
+}
+
+.logo h1:hover {
+  transform: scale(1.08);
+  color: #3b82f6;
+}
+
+/* ===== Navbar Links ===== */
+.navbar {
+  display: flex;
+  gap: clamp(12px, 2.5vw, 40px);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.navbar a {
+  position: relative;
+  font-size: clamp(13px, 1.2vw, 18px);
+  font-weight: 500;
+  color: #f1f5f9;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  white-space: nowrap;
+}
+
+/* Underline hover */
+.navbar a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  bottom: -5px;
+  left: 0;
+  background-color: #00f925;
+  transition: width 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #310bf0;
+}
+
+.navbar a:hover::after {
+  width: 100%;
+}
+
+/* ===== Responsive Breakpoints ===== */
+
+/* Tablets & small laptops (max 992px) */
+@media (max-width: 992px) {
+  .navbar {
+    gap: 15px;
+  }
+  .navbar a {
+    font-size: 15px;
+  }
+}
+
+
+/* Extra small screens (max 480px) */
+@media (max-width: 480px) {
+  .logo h1 {
+    font-size: 20px;
+  }
+
+  .navbar {
+    gap: 8px;
+  }
+
+  .navbar a {
+    font-size: 14px;
+  }
+}
