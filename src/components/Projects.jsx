@@ -1,7 +1,4 @@
-import qbankImage from "../assets/qbank.png";
-import tictactoeImage from "../assets/tictactoe.png";
-import learnifyImage from "../assets/learnify.png";
-import calculatorImage from "../assets/calculator.png";
+
 
 export default function Projects() {
   const projects = [
@@ -11,28 +8,28 @@ export default function Projects() {
       tags: ["React", "CSS", "JavaScript"],
       live: "https://svsu-qbank.netlify.app/",
       github: "https://github.com/AmitChhoker/svsu-qbank",
-      image: qbankImage,
+      image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/qbank.png?raw=true",
     },
     {
       title: "Tic Tac Toe Game",
       description: "A fun tic-tac-toe game built with JavaScript logic.",
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/AmitChhoker/Tic-Tae-Toe-Game",
-      image: tictactoeImage,
+      image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/tictactoe.png?raw=true",
     },
     {
       title: "Learnify",
       description: "An interactive learning platform for students.",
       tags: ["React", "Node.js", "MongoDB"],
       github: "https://github.com/AmitChhoker/Learnify",
-      image: learnifyImage,
+      image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/learnify.png?raw=true",
     },
     {
       title: "Smart Calculator",
       description: "An advanced calculator with history tracking and smart features.",
       tags: ["JavaScript", "HTML", "CSS"],
       github: "https://github.com/AmitChhoker/Smart_calculator",
-      image: calculatorImage,
+      image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/calculator.png?raw=true",
     },
   ];
 
@@ -41,11 +38,7 @@ export default function Projects() {
       <h2 className="projects-title">PROJECTS</h2>
       <div className="projects-container">
         {projects.map((proj, index) => (
-          <div
-            key={index}
-            className="project-card"
-            style={{ backgroundImage: `(${proj.image})` }}
-          >
+          <div key={index} className="project-card" style={{ backgroundImage: `url(${proj.image})` }} >
             <div className="overlay">
               <h3>{proj.title}</h3>
               <p>{proj.description}</p>

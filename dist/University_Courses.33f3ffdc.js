@@ -29891,7 +29891,7 @@ function Contact() {
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "profile-img",
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                        src: "https://media.licdn.com/dms/image/v2/D5603AQF4xiyA97_RcQ/profile-displayphoto-shrink_200_200/B56ZR3dy7RGQAc-/0/1737171088169?e=2147483647&v=beta&t=VZdUTsJOgAQMrTjQWSx--H7n8h0QabZkmCsglahJfqo",
+                        src: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/profile.jpg?raw=true",
                         alt: "Amit Chhoker"
                     }, void 0, false, {
                         fileName: "src/components/Front.jsx",
@@ -30624,14 +30624,6 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>Projects);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _qbankPng = require("../assets/qbank.png");
-var _qbankPngDefault = parcelHelpers.interopDefault(_qbankPng);
-var _tictactoePng = require("../assets/tictactoe.png");
-var _tictactoePngDefault = parcelHelpers.interopDefault(_tictactoePng);
-var _learnifyPng = require("../assets/learnify.png");
-var _learnifyPngDefault = parcelHelpers.interopDefault(_learnifyPng);
-var _calculatorPng = require("../assets/calculator.png");
-var _calculatorPngDefault = parcelHelpers.interopDefault(_calculatorPng);
 function Projects() {
     const projects = [
         {
@@ -30644,7 +30636,7 @@ function Projects() {
             ],
             live: "https://svsu-qbank.netlify.app/",
             github: "https://github.com/AmitChhoker/svsu-qbank",
-            image: (0, _qbankPngDefault.default)
+            image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/qbank.png?raw=true"
         },
         {
             title: "Tic Tac Toe Game",
@@ -30655,7 +30647,7 @@ function Projects() {
                 "JavaScript"
             ],
             github: "https://github.com/AmitChhoker/Tic-Tae-Toe-Game",
-            image: (0, _tictactoePngDefault.default)
+            image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/tictactoe.png?raw=true"
         },
         {
             title: "Learnify",
@@ -30666,7 +30658,7 @@ function Projects() {
                 "MongoDB"
             ],
             github: "https://github.com/AmitChhoker/Learnify",
-            image: (0, _learnifyPngDefault.default)
+            image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/learnify.png?raw=true"
         },
         {
             title: "Smart Calculator",
@@ -30677,7 +30669,7 @@ function Projects() {
                 "CSS"
             ],
             github: "https://github.com/AmitChhoker/Smart_calculator",
-            image: (0, _calculatorPngDefault.default)
+            image: "https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/calculator.png?raw=true"
         }
     ];
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -30688,7 +30680,7 @@ function Projects() {
                 children: "PROJECTS"
             }, void 0, false, {
                 fileName: "src/components/Projects.jsx",
-                lineNumber: 41,
+                lineNumber: 38,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -30696,7 +30688,7 @@ function Projects() {
                 children: projects.map((proj, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "project-card",
                         style: {
-                            backgroundImage: `(${proj.image})`
+                            backgroundImage: `url(${proj.image})`
                         },
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "overlay",
@@ -30705,14 +30697,14 @@ function Projects() {
                                     children: proj.title
                                 }, void 0, false, {
                                     fileName: "src/components/Projects.jsx",
-                                    lineNumber: 50,
+                                    lineNumber: 43,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                     children: proj.description
                                 }, void 0, false, {
                                     fileName: "src/components/Projects.jsx",
-                                    lineNumber: 51,
+                                    lineNumber: 44,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -30722,12 +30714,12 @@ function Projects() {
                                             children: tag
                                         }, i, false, {
                                             fileName: "src/components/Projects.jsx",
-                                            lineNumber: 54,
+                                            lineNumber: 47,
                                             columnNumber: 19
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "src/components/Projects.jsx",
-                                    lineNumber: 52,
+                                    lineNumber: 45,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -30741,7 +30733,7 @@ function Projects() {
                                             children: "\uD83D\uDD17 Live Demo"
                                         }, void 0, false, {
                                             fileName: "src/components/Projects.jsx",
-                                            lineNumber: 59,
+                                            lineNumber: 52,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -30752,35 +30744,35 @@ function Projects() {
                                             children: "\uD83D\uDCBB GitHub"
                                         }, void 0, false, {
                                             fileName: "src/components/Projects.jsx",
-                                            lineNumber: 68,
+                                            lineNumber: 61,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/Projects.jsx",
-                                    lineNumber: 57,
+                                    lineNumber: 50,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Projects.jsx",
-                            lineNumber: 49,
+                            lineNumber: 42,
                             columnNumber: 13
                         }, this)
                     }, index, false, {
                         fileName: "src/components/Projects.jsx",
-                        lineNumber: 44,
+                        lineNumber: 41,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "src/components/Projects.jsx",
-                lineNumber: 42,
+                lineNumber: 39,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/components/Projects.jsx",
-        lineNumber: 40,
+        lineNumber: 37,
         columnNumber: 5
     }, this);
 }
@@ -30793,7 +30785,7 @@ $RefreshReg$(_c, "Projects");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","../assets/qbank.png":"fNn3y","../assets/tictactoe.png":"8eNHH","../assets/learnify.png":"3IBEO","../assets/calculator.png":"jXLXn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"fNn3y":[function() {},{}],"8eNHH":[function() {},{}],"3IBEO":[function() {},{}],"jXLXn":[function() {},{}],"frm7H":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"frm7H":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$7c96 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$7c96.init();
 var prevRefreshReg = globalThis.$RefreshReg$;

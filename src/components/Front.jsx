@@ -44,7 +44,7 @@ export default function Contact() {
       <div className="profile-card">
         <div className="profile-img">
           <img
-            src="https://media.licdn.com/dms/image/v2/D5603AQF4xiyA97_RcQ/profile-displayphoto-shrink_200_200/B56ZR3dy7RGQAc-/0/1737171088169?e=2147483647&v=beta&t=VZdUTsJOgAQMrTjQWSx--H7n8h0QabZkmCsglahJfqo"
+            src="https://github.com/AmitChhoker/My_Portfolio/blob/main/src/assets/profile.jpg?raw=true"
             alt="Amit Chhoker"
           />
         </div>
