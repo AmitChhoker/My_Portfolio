@@ -1,9 +1,9 @@
-11731
+11732
 146C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\render\svg134003601532340201 1
 174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\map-marker.svg134003601568342901 0
 172C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\file-csv.svg134003601554754851 0
 179C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\kiss-wink-heart.svg134003601565730274 0
-125C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\components\About.jsx134002692669649179 0
+125C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\components\About.jsx134003616447276766 0
 148C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\utility-types\dist\mapped-types.js134003601517381945 0
 156C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\value\use-scroll.mjs134003601532300193 0
 181C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\hand-holding-hand.svg134003601559963750 0
@@ -12,7 +12,7 @@
 137C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-icons\bi\index.js134003601522022260 0
 164C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\components\Reorder\Group.mjs134003601528102155 0
 173C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\render\object\ObjectVisualElement.mjs134003601529868046 0
-113C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\package.json134003609166989261 0
+113C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\package.json134003616153108916 0
 160C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\i.svg134003601564001827 0
 150C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\motion-utils\dist\es\easing\circ.mjs134003601519920210 0
 141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\runtime-browser-hmr134003601519377213 1
@@ -20,7 +20,7 @@
 174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\brands\stack-exchange.svg134003601585465856 0
 190C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\creative-commons-sampling.svg134003601548547136 0
 146C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\scripts\ast_grep.js134003601529185760 0
-105C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist134003611751338386 1
+105C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist134003617118182306 1
 150C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\core\lib\summarizeRequest.js134003601528092149 0
 171C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\icicles.svg134003601564033048 0
 139C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\postcss\lib\postcss.d.mts134003609157401260 0
@@ -64,7 +64,7 @@
 136C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\picomatch\package.json134003601519002215 0
 148C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\core\src\serializerCore.js134003601528067528 0
 174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\shopping-basket.svg134003601582148460 0
-115C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\components134003606269555638 1
+115C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\components134003612790946840 1
 130C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\lmdb\src\txn.cpp134003601525848536 0
 176C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\file-video.svg134003601555489102 0
 166C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-router\dist\development\browser-z32v5KVN.d.mts134003601524759282 0
@@ -100,7 +100,7 @@
 121C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@vitejs134003609152655892 1
 136C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\type-fest\package.json134003601516081968 0
 147C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\features\eot.js134003601533082670 0
-111C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\assets134003561000118042 1
+111C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\assets134003617856527255 1
 125C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@jridgewell134003609152641855 1
 159C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\features\x-frame-options.js134003601540782478 0
 160C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\tinyglobby\node_modules\picomatch\lib\utils.js134003609156181213 0
@@ -115,7 +115,7 @@
 169C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\socks.svg134003601583332377 0
 139C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-router\CHANGELOG.md134003601522911795 0
 163C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\gestures\pan\PanSession.mjs134003601529965744 0
-125C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\components\About.css134002709616351413 0
+125C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\components\About.css134003617117074367 0
 160C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\_\_iterable_to_array\package.json134003601531747128 0
 186C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\triangle-circle-square.svg134003601591408475 0
 172C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\user-alt.svg134003601593163094 0
@@ -251,6 +251,18 @@
 127C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion134003601524128908 1
 145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\regions\FM.js134003601533883164 0
 123C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\assets\myPhoto.jpg133836599570000000 0
+168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\code-fork.svg134003601547160486 0
+174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\features\img-naturalwidth-naturalheight.js134003601535348430 0
+118C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\.bin134003609164030578 1
+173C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\render\dom\scroll\offsets\presets.mjs134003601530087708 0
+138C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-dom\static.node.js134003601527265098 0
+131C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-router\dist134003601516843547 1
+159C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs134003601534640933 0
+172C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\star-half-alt.svg134003601585687786 0
+145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\source-map-js\lib\base64-vlq.js134003609155270810 0
+123C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\assets\profile.jpg133723404280000000 0
+158C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\features\resizeobserver.js134003601538541901 0
+145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\postcss\lib\css-syntax-error.js134003609155758736 0
 174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\face-angry.svg134003601552060987 0
 172C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@vitejs\plugin-react\node_modules\react-refresh\runtime.js134003609156717785 0
 119C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\.vite134003609240029932 1
@@ -274,19 +286,6 @@
 144C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react\cjs\react.development.js134003601521392816 0
 168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\context\MotionContext\create.mjs134003601526322761 0
 125C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\src\assets\tictactoe.png134003550970496490 0
-168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\code-fork.svg134003601547160486 0
-174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\features\img-naturalwidth-naturalheight.js134003601535348430 0
-118C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\.bin134003609164030578 1
-173C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\render\dom\scroll\offsets\presets.mjs134003601530087708 0
-138C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-dom\static.node.js134003601527265098 0
-131C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-router\dist134003601516843547 1
-158C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\types\lib\comments\addComments.js.map134003609159109627 0
-145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\regions\IR.js134003601536007229 0
-168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\utils\use-motion-value-event.mjs134003601531707131 0
-173C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react\cjs\react-jsx-dev-runtime.react-server.development.js134003601520479422 0
-169C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\square-pen.svg134003601584858457 0
-171C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@vitejs\plugin-react\node_modules\react-refresh\README.md134003609156775050 0
-120C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\dotenv134003601520064989 1
 168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h134003601517602756 0
 167C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\file-pdf.svg134003601555273127 0
 159C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\features\async-clipboard.js134003601522921791 0
@@ -451,6 +450,13 @@
 174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\gitkraken.svg134003601558173086 0
 166C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\_\_class_private_field_set\package.json134003601530420257 0
 138C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-dom\server.node.js134003601527085141 0
+158C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\types\lib\comments\addComments.js.map134003609159109627 0
+145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\regions\IR.js134003601536007229 0
+168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\utils\use-motion-value-event.mjs134003601531707131 0
+173C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react\cjs\react-jsx-dev-runtime.react-server.development.js134003601520479422 0
+169C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\square-pen.svg134003601584858457 0
+171C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@vitejs\plugin-react\node_modules\react-refresh\README.md134003609156775050 0
+120C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\dotenv134003601520064989 1
 146C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\dom-mini.d.ts134003601532990906 0
 164C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\table.svg134003601586928170 0
 168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\shop.svg134003601582088453 0
@@ -929,7 +935,7 @@
 128C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\vite\README.md134003609158843807 0
 139C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-icons\io5\index.mjs134003601537960363 0
 146C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\source-map\dist\types.js134003601520758786 0
-127C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\learnify.c8055c6f.png134003610448091615 0
+127C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\learnify.c8055c6f.png134003616161822901 0
 142C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\events134003601531329833 1
 139C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\watcher\src\linux134003601522276741 1
 124C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\vite\types134003609159483733 1
@@ -1793,9 +1799,6 @@
 144C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\source-map-js\lib\array-set.js134003609155144930 0
 201C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js134003601525387341 0
 157C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock134003601530254354 0
-159C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs134003601534640933 0
-172C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\star-half-alt.svg134003601585687786 0
-145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\source-map-js\lib\base64-vlq.js134003609155270810 0
 141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\source-map-js\lib\base64.js134003609155440151 0
 142C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\nanoid\non-secure\index.d.ts134003609156870242 0
 151C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\motion-dom\dist\es\gestures\hover.mjs134003601525131684 0
@@ -2116,7 +2119,7 @@
 162C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\fax.svg134003601554010895 0
 141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\rollup\dist\es\package.json134003609159032457 0
 173C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\list-dots.svg134003601567193725 0
-140C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.33f3ffdc.js.map134003611751318429 0
+140C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.33f3ffdc.js.map134003616448878792 0
 128C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react\index.js134003601516576134 0
 140C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\rollup\dist\es\parseAst.js134003609156938989 0
 133C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\has-flag\index.d.ts134003601516051894 0
@@ -2268,8 +2271,8 @@
 182C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-router\dist\production\index-react-server-client-BKpa2trA.d.ts134003601526371072 0
 154C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\reporter-cli\src\bundleReport.js134003601516307861 0
 165C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\u.svg134003601592441581 0
-150C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\source-map\dist\node.js.flow134003601515890913 0
 131C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\lmdb\util\when.js134003601527532157 0
+150C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\source-map\dist\node.js.flow134003601515890913 0
 139C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-icons\fa\index.d.ts134003601539578677 0
 178C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js134003601526424779 0
 174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-router\dist\production\index-react-server-client.d.mts134003601525474136 0
@@ -2618,7 +2621,6 @@
 150C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\esm\_to_property_key.js134003601528753190 0
 170C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\flag.svg134003601556304572 0
 141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-icons\tb\package.json134003601536345256 0
-156C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\node-gyp-build-optional-packages\README.md134003601517875345 0
 137C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-icons\sl\index.js134003601534960139 0
 169C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\components\MotionConfig\index.mjs134003601528526760 0
 138C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\react-icons\sl\index.mjs134003601538941789 0
@@ -2997,8 +2999,6 @@
 148C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\feature-flags\src\index.js134003601517250463 0
 175C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\motion\utils\is-forced-motion-value.mjs134003601529134130 0
 138C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\postcss\lib\container.js134003609155440151 0
-158C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\caniuse-lite\data\features\resizeobserver.js134003601538541901 0
-145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\postcss\lib\css-syntax-error.js134003609155758736 0
 142C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\postcss\lib\declaration.d.ts134003609157905150 0
 154C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\helpers\lib\helpers\AwaitValue.js134003609158266370 0
 175C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\temperature-full.svg134003601587647380 0
@@ -3142,6 +3142,7 @@
 165C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\z.svg134003601596539790 0
 125C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\.bin\rollup134003609164030578 0
 143C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@rollup\rollup-win32-x64-msvc134003609155201520 1
+156C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\node-gyp-build-optional-packages\README.md134003601517875345 0
 171C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc134003601517981733 1
 181C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\fort-awesome-alt.svg134003601557090300 0
 177C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\birthday-cake.svg134003601538658813 0
@@ -3689,8 +3690,8 @@
 161C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\motion-dom\dist\es\effects\MotionValueState.mjs134003601527415458 0
 171C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\types\lib\builders\typescript\createTSUnionType.js134003609158037754 0
 145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\motion-dom\dist\es\effects\prop134003601525514122 1
-133C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\esbuild\bin\esbuild134003609155037720 0
 168C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\motion-dom\dist\es\effects\utils\create-dom-effect.mjs134003601523228578 0
+133C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\esbuild\bin\esbuild134003609155037720 0
 154C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@swc\helpers\esm\_to_consumable_array.js134003601528709841 0
 129C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\gensync\LICENSE134003609155144930 0
 164C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\motion-dom\dist\es\effects\utils\create-effect.mjs134003601523283393 0
@@ -4462,7 +4463,7 @@
 170C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\projection\geometry\conversion.mjs134003601525871948 0
 171C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\projection\geometry\delta-apply.mjs134003601526636872 0
 176C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\glass-cheers.svg134003601558245183 0
-126C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\myPhoto.de693258.jpg134003610448131580 0
+126C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\myPhoto.de693258.jpg134003616161532509 0
 170C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\projection\geometry\delta-calc.mjs134003601526670599 0
 165C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\projection\geometry\utils.mjs134003601532686948 0
 175C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\arrows-to-circle.svg134003601536332509 0
@@ -4521,7 +4522,7 @@
 161C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@parcel\transformer-json\lib\JSONTransformer.js134003601516257726 0
 184C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\components\AnimatePresence\use-presence-data.mjs134003601532097124 0
 172C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\components\AnimatePresence\utils.mjs134003601532629064 0
-141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.3a01df49.css.map134003610448101562 0
+141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.3a01df49.css.map134003616162144800 0
 165C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\wrench.svg134003601596097329 0
 152C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\chrome-trace-event\dist\trace-event.js134003601515875848 0
 151C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\framer-motion\dist\es\animation\hooks134003601531193565 1
@@ -8900,7 +8901,7 @@
 177C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\table-columns.svg134003601586849303 0
 188C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\table-tennis-paddle-ball.svg134003601586884619 0
 176C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\table-tennis.svg134003601586906973 0
-116C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\index.html134003610448061572 0
+116C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\index.html134003616161251260 0
 174C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\tablet-alt.svg134003601586938133 0
 184C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\tablet-screen-button.svg134003601586990972 0
 170C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\tablet.svg134003601587000937 0
@@ -9116,8 +9117,8 @@
 175C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\eye-slash.svg134003601551925197 0
 178C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\face-grimace.svg134003601552332069 0
 167C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\angle-up.svg134003601532842477 0
-186C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\face-grin-beam-sweat.svg134003601552412082 0
 177C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\chalkboard-teacher.svg134003601544116430 0
+186C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\face-grin-beam-sweat.svg134003601552412082 0
 180C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\face-grin-beam.svg134003601552502090 0
 187C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\regular\face-grin-tongue-wink.svg134003601552892067 0
 151C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\types\lib\definitions\index.js134003609160411294 0
@@ -9424,7 +9425,7 @@
 175C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\sourcetree.svg134003601583823628 0
 172C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\spotify.svg134003601584057189 0
 180C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\square-dribbble.svg134003601584362138 0
-137C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.3a01df49.css134003610447820742 0
+137C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.3a01df49.css134003616161251260 0
 180C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\square-facebook.svg134003601584404138 0
 173C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs\solid\cloud-sun-rain.svg134003601546821441 0
 175C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\square-git.svg134003601584508675 0
@@ -11394,7 +11395,7 @@
 165C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\plugin-transform-react-jsx-self\lib\index.js134003609156126245 0
 137C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\parser\README.md134003609155315405 0
 135C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\parser\typings134003609157147744 1
-133C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-solid-900.45be5413.woff2134003610448091615 0
+133C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-solid-900.45be5413.woff2134003616161285842 0
 153C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\parser\typings\babel-parser.d.ts134003609157171928 0
 140C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\parser\lib\index.js134003609156574221 0
 144C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\@babel\parser\lib\index.js.map134003609157085103 0
@@ -11721,12 +11722,12 @@
 141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\.bin\update-browserslist-db134003601597039239 0
 145C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\.bin\update-browserslist-db.ps1134003601597027386 0
 127C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\node_modules\.bin\vite.cmd134003609164042378 0
-129C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\calculator.bf6b8d08.png134003610448384507 0
-134C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-brands-400.55a67878.woff2134003610448081566 0
-135C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-regular-400.6b5e9a3a.woff2134003610447760744 0
-139C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-v4compatibility.fd23dd3a.woff2134003610447770749 0
-124C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\qbank.20cc2b24.png134003610448051562 0
-128C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\tictactoe.522018fd.png134003610448204696 0
-136C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.33f3ffdc.js134003611751238910 0
-137C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.aa436662.css134003610448612363 0
-141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.aa436662.css.map134003610448632545 0
+129C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\calculator.bf6b8d08.png134003616162180162 0
+134C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-brands-400.55a67878.woff2134003616161266405 0
+135C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-regular-400.6b5e9a3a.woff2134003616161266405 0
+139C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\fa-v4compatibility.fd23dd3a.woff2134003616161266405 0
+124C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\qbank.20cc2b24.png134003616161532509 0
+128C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\tictactoe.522018fd.png134003616162144800 0
+136C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.33f3ffdc.js134003616448769758 0
+137C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.aa436662.css134003617118143113 0
+141C:\Users\pk109\OneDrive\Attachments\Desktop\WEB BLOCKCHAIN\NEXUS\Reactjs\Projects\University_Courses\dist\University_Courses.aa436662.css.map134003617118172140 0

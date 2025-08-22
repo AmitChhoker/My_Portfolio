@@ -7,7 +7,7 @@ export default function Header() {
       <div className="about-container">
 
         <div className="about-photo">
-          <img src={myPhoto} alt="Profile" />
+          <img src="https://github.com/AmitChhoker/My_Portfolio/blob/main/myPhoto.jpg?raw=true" alt="Profile" />
 
         </div>
         <div className="about-text">

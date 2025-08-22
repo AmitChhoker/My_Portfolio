@@ -27396,7 +27396,7 @@ function Header() {
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "about-photo",
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                        src: (0, _myPhotoJpgDefault.default),
+                        src: "https://github.com/AmitChhoker/My_Portfolio/blob/main/myPhoto.jpg?raw=true",
                         alt: "Profile"
                     }, void 0, false, {
                         fileName: "src/components/About.jsx",
